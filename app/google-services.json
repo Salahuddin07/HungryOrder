@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "735581354657",
+    "firebase_url": "https://hungryorderapp.firebaseio.com",
+    "project_id": "hungryorderapp",
+    "storage_bucket": "hungryorderapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735581354657:android:a4c7a71e05a5b7bd",
+        "android_client_info": {
+          "package_name": "com.example.salahuddin.hungryorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735581354657-pd3aisnh4p85btuu5f40lvk05hbf78ar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salahuddin.hungryorderapp",
+            "certificate_hash": "a8a09576e8a97c4e3d4a7185595c3354357add02"
+          }
+        },
+        {
+          "client_id": "735581354657-vm7toovulh3qfsrvvpl1dtfcprsc3ngo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU30txvW75sMJifwD2bSQDAj_mJBnX1YU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735581354657-vm7toovulh3qfsrvvpl1dtfcprsc3ngo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
